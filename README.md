@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wash Rights Network Website
 
 This is a cloned and improved version of the Wash Rights Network (NEWARI) website, originally archived from https://washrightsnetwork.org/
@@ -99,3 +100,8 @@ Website clone created for archival and deployment purposes.
 ## Contact
 
 For questions about the Wash Rights Network, visit their pages or social media (@WashNetwork on Twitter).
+=======
+# washrights
+
+This is the washrights repository.
+>>>>>>> 1cf74d4bbea7d26924a12253522c44d94e6eccae
