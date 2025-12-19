@@ -1,0 +1,22 @@
+@keyframes shake{from,to{transform:translate3d(0,0,0)}10%,30%,50%,70%,90%{transform:translate3d(-10px,0,0)}20%,40%,60%,80%{transform:translate3d(10px,0,0)}}.shake{animation-name:shake}
+/*
+     FILE ARCHIVED ON 04:13:28 Mar 12, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:51:37 Dec 17, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.606
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.009
+  esindex: 0.011
+  cdx.remote: 4.979
+  LoadShardBlock: 45.652 (3)
+  PetaboxLoader3.datanode: 105.224 (5)
+  load_resource: 170.809
+  PetaboxLoader3.resolve: 30.668
+  loaddict: 106.346
+*/
